@@ -31,8 +31,8 @@ Here are some of my notable projects:
 * MongoDB
 * WebRTC
 * Socket.io
-* AWS
-* Heroku
+* Docker
+* Spring Framework
 * Git
 * Agile methodologies
 
@@ -41,8 +41,7 @@ Here are some of my notable projects:
 If you want to get in touch, feel free to reach out to me through any of the following channels:
 
 * Email:
-* GitHub:
+* GitHub: https://github.com/tiwarivt
 * LinkedIn:
-* Twitter:
 
 Thanks for stopping by! 😊

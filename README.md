@@ -42,6 +42,6 @@ I love to explore different technologies and dig deep to see how they come toget
 
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/"><img align="left" src="https://github.com/alishashaw439/alishashaw439/blob/main/images/linkedin.png" width="20px"/></a>
-<a href="https://twitter.com/"><img align="left" src="https://github.com/alishashaw439/alishashaw439/blob/main/images/twitter.png" width="21px"/></a>
+<a href="https://www.linkedin.com/in/tvaibhav"><img align="left" src="https://github.com/alishashaw439/alishashaw439/blob/main/images/linkedin.png" width="20px"/></a>
+<a href="https://twitter.com/ivaibhavt"><img align="left" src="https://github.com/alishashaw439/alishashaw439/blob/main/images/twitter.png" width="21px"/></a>
 </br>
